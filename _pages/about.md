@@ -24,6 +24,7 @@ I aim to bridge graph algorithms, data systems, and LLM-driven approaches, worki
 
 News
 ======
+- 2025.08 💥💥 One paper is accepted by SIGMOD 2026!
 
 Selected Publications
 ======
