@@ -28,14 +28,14 @@ News
 
 Selected Publications
 ======
-- **[SIGMOD 2026]** Triangle Counting in Hypergraph Streams: A Complete and Practical Approach
-  *Lingkai Meng*, Long Yuan*, Xuemin Lin, Wenjie Zhang, Ying Zhang
+- <span style="color:gold; font-weight:bold">**[SIGMOD 2026]**</span> Triangle Counting in Hypergraph Streams: A Complete and Practical Approach
+  **Lingkai Meng**, Long Yuan*, Xuemin Lin, Wenjie Zhang, Ying Zhang
 
-- **[SIGMOD 2025]** Revisiting Graph Analytics Benchmark  
-  *Lingkai Meng*, Yu Shao, Long Yuan, Longbin Lai, Peng Cheng, Xue Li, Wenyuan Yu, Wenjie Zhang, Xuemin Lin, Jingren Zhou
+- <span style="color:gold; font-weight:bold">**[SIGMOD 2025]**</span> Revisiting Graph Analytics Benchmark  
+  **Lingkai Meng**, Yu Shao, Long Yuan, Longbin Lai, Peng Cheng, Xue Li, Wenyuan Yu, Wenjie Zhang, Xuemin Lin, Jingren Zhou
 
-- **[ACM Computing Surveys 2024]** A Survey of Distributed Graph Algorithms on Massive Graphs  
-  *Lingkai Meng*, Yu Shao, Long Yuan, Longbin Lai, Peng Cheng, Xue Li, Wenyuan Yu, Wenjie Zhang, Xuemin Lin, Jingren Zhou  
+- <span style="color:gold; font-weight:bold">**[ACM Computing Surveys 2024]**</span> A Survey of Distributed Graph Algorithms on Massive Graphs  
+  **Lingkai Meng**, Yu Shao, Long Yuan, Longbin Lai, Peng Cheng, Xue Li, Wenyuan Yu, Wenjie Zhang, Xuemin Lin, Jingren Zhou  
 
-- **[ICDE 2022]** Index-based Structural Clustering on Directed Graphs  
-  *Lingkai Meng*, Long Yuan, Zi Chen, Xuemin Lin, Shiyu Yang
+- <span style="color:gold; font-weight:bold">**[ICDE 2022]**</span> Index-based Structural Clustering on Directed Graphs  
+  **Lingkai Meng**, Long Yuan, Zi Chen, Xuemin Lin, Shiyu Yang
