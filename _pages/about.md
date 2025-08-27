@@ -37,7 +37,7 @@ Selected Publications
   **Lingkai Meng**, Yu Shao, Long Yuan, Longbin Lai, Peng Cheng, Xue Li, Wenyuan Yu, Wenjie Zhang, Xuemin Lin, Jingren Zhou <br>
   Proceedings of the ACM on Management of Data (**CCF-A**), 2025, 3(3): 1-28.
 
-- <span style="color:#CD853F; font-weight:bold">**[ACM Computing Surveys 2024]**</span> A Survey of Distributed Graph Algorithms on Massive Graphs   <br>
+- <span style="color:#CD853F; font-weight:bold">**[CSUR 2024]**</span> A Survey of Distributed Graph Algorithms on Massive Graphs   <br>
   **Lingkai Meng**, Yu Shao, Long Yuan, Longbin Lai, Peng Cheng, Xue Li, Wenyuan Yu, Wenjie Zhang, Xuemin Lin, Jingren Zhou <br>
   ACM Computing Surveys (**JCR Q1; CAS Q1**), 2024, 57(2): 1-39.
 
