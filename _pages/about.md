@@ -28,6 +28,7 @@ News
 
 Selected Publications
 ======
+
 - <span style="color:#CD853F; font-weight:bold">**[SIGMOD 2026]**</span> Triangle Counting in Hypergraph Streams: A Complete and Practical Approach
   **Lingkai Meng**, Long Yuan, Xuemin Lin, Wenjie Zhang, Ying Zhang
 
