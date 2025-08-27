@@ -31,16 +31,16 @@ Selected Publications
 
 - <span style="color:#CD853F; font-weight:bold">**[SIGMOD 2026]**</span> Triangle Counting in Hypergraph Streams: A Complete and Practical Approach  <br>
   **Lingkai Meng**, Long Yuan, Xuemin Lin, Wenjie Zhang, Ying Zhang <br>
-  Proceedings of the ACM on Management of Data (**CCF-A**)
+  Proceedings of the ACM on Management of Data.
   
 - <span style="color:#CD853F; font-weight:bold">**[SIGMOD 2025]**</span> Revisiting Graph Analytics Benchmark   <br>
   **Lingkai Meng**, Yu Shao, Long Yuan, Longbin Lai, Peng Cheng, Xue Li, Wenyuan Yu, Wenjie Zhang, Xuemin Lin, Jingren Zhou <br>
-  Proceedings of the ACM on Management of Data (**CCF-A**), 2025, 3(3): 1-28.
+  Proceedings of the ACM on Management of Data, 2025, 3(3): 1-28.
 
 - <span style="color:#CD853F; font-weight:bold">**[CSUR 2024]**</span> A Survey of Distributed Graph Algorithms on Massive Graphs   <br>
   **Lingkai Meng**, Yu Shao, Long Yuan, Longbin Lai, Peng Cheng, Xue Li, Wenyuan Yu, Wenjie Zhang, Xuemin Lin, Jingren Zhou <br>
-  ACM Computing Surveys (**JCR Q1; CAS Q1**), 2024, 57(2): 1-39.
+  ACM Computing Surveys, 2024, 57(2): 1-39.
 
 - <span style="color:#CD853F; font-weight:bold">**[ICDE 2022]**</span> Index-based Structural Clustering on Directed Graphs  <br>
   **Lingkai Meng**, Long Yuan, Zi Chen, Xuemin Lin, Shiyu Yang <br>
-  IEEE 38th International Conference on Data Engineering (**CCF-A**). IEEE, 2022: 2831-2844.
+  IEEE 38th International Conference on Data Engineering. IEEE, 2022: 2831-2844.
