@@ -31,12 +31,16 @@ Selected Publications
 
 - <span style="color:#CD853F; font-weight:bold">**[SIGMOD 2026]**</span> Triangle Counting in Hypergraph Streams: A Complete and Practical Approach  
   **Lingkai Meng**, Long Yuan, Xuemin Lin, Wenjie Zhang, Ying Zhang
-
+  Proceedings of the ACM on Management of Data (CCF-A)
+  
 - <span style="color:#CD853F; font-weight:bold">**[SIGMOD 2025]**</span> Revisiting Graph Analytics Benchmark  
   **Lingkai Meng**, Yu Shao, Long Yuan, Longbin Lai, Peng Cheng, Xue Li, Wenyuan Yu, Wenjie Zhang, Xuemin Lin, Jingren Zhou
+  Proceedings of the ACM on Management of Data (CCF-A), 2025, 3(3): 1-28.
 
 - <span style="color:#CD853F; font-weight:bold">**[ACM Computing Surveys 2024]**</span> A Survey of Distributed Graph Algorithms on Massive Graphs  
-  **Lingkai Meng**, Yu Shao, Long Yuan, Longbin Lai, Peng Cheng, Xue Li, Wenyuan Yu, Wenjie Zhang, Xuemin Lin, Jingren Zhou  
+  **Lingkai Meng**, Yu Shao, Long Yuan, Longbin Lai, Peng Cheng, Xue Li, Wenyuan Yu, Wenjie Zhang, Xuemin Lin, Jingren Zhou
+  ACM Computing Surveys (JCR Q1; CAS Q1), 2024, 57(2): 1-39.
 
 - <span style="color:#CD853F; font-weight:bold">**[ICDE 2022]**</span> Index-based Structural Clustering on Directed Graphs  
   **Lingkai Meng**, Long Yuan, Zi Chen, Xuemin Lin, Shiyu Yang
+  IEEE 38th International Conference on Data Engineering (CCF-A). IEEE, 2022: 2831-2844.
