@@ -29,7 +29,7 @@ News
 Selected Publications
 ======
 
-Remark: <sup>†</sup> indicates co-first authors, <sup>*</sup> indicates corresponding author
+Remark: <sup>†</sup> indicates co-first authors, * indicates the corresponding author
 
 - <span style="color:#CD853F; font-weight:bold">**[SIGMOD 2026]**</span> Triangle Counting in Hypergraph Streams: A Complete and Practical Approach  <br>
   **Lingkai Meng**, Long Yuan, Xuemin Lin, Wenjie Zhang, Ying Zhang <br>
