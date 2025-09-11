@@ -43,9 +43,9 @@ Remark: <sup>†</sup> indicates co-first authors, * indicates the corresponding
   **Lingkai Meng**, Yu Shao, Long Yuan, Longbin Lai, Peng Cheng, Xue Li, Wenyuan Yu, Wenjie Zhang, Xuemin Lin, Jingren Zhou <br>
   ACM Computing Surveys, 2024, 57(2): 1-39.
 
-- <span style="color:#CD853F; font-weight:bold">**[SIGMOD 2024]**</span> Revisiting Graph Analytics Benchmark   <br>
-  **Lingkai Meng**, Yu Shao, Long Yuan, Longbin Lai, Peng Cheng, Xue Li, Wenyuan Yu, Wenjie Zhang, Xuemin Lin, Jingren Zhou <br>
-  Proceedings of the ACM on Management of Data, 2025, 3(3): 1-28.
+- <span style="color:#CD853F; font-weight:bold">**[SIGMOD 2024]**</span> High-Ratio Compression for Machine-Generated Data <br>
+  Jiujing Zhang, Zhitao Shen, Shiyu Yang, **Lingkai Meng**, Chuan Xiao, Wei Jia, Yue Li, Qinhui Sun, Wenjie Zhang, Xuemin Lin <br>
+  Proceedings of the ACM on Management of Data, 2023, 1(4): 1-27.
 
 - <span style="color:#CD853F; font-weight:bold">**[ICDE 2022]**</span> Index-based Structural Clustering on Directed Graphs  <br>
   **Lingkai Meng**, Long Yuan, Zi Chen, Xuemin Lin, Shiyu Yang <br>
