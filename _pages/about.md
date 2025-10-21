@@ -25,6 +25,8 @@ I aim to bridge graph algorithms, data systems, and LLM-driven approaches to add
 News
 ======
 - 2025.08 💥💥 One paper is accepted by SIGMOD 2026!
+- 2025.01 💥💥 One paper is accepted by SIGMOD 2025!
+- 2024.08 💥💥 One paper is accepted by ACM Computing Surveys!
 
 Selected Publications
 ======
